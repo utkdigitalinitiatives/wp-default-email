@@ -1,5 +1,9 @@
 # wp-default-email
-Change sender name and address in WordPress email notifications to University Libraries Webmaster libwebmaster@utk.edu. Option 1 of the email from Bob Hillhouse
+Change sender name and address in WordPress email notifications to University Libraries Webmaster libwebmaster@utk.edu.
+
+Code adapted from http://www.wpbeginner.com/plugins/how-to-change-sender-name-in-outgoing-wordpress-email
+
+Option 1 of the email from Bob Hillhouse
 
 The default WordPress sender name is ‘WordPress’ which sends emails from a non-existent email address (wordpress@yourdomain.com) as the sender email. This default behavior will cause this email to potentially discarded.
 
